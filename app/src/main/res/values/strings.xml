@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">8-Puzzle</string>
+    <string name="app_name">Puzzle Mpdam</string>
     <string name="app_title">Puzzle Mpdam</string>
     <string name="preference_file_key">com.example.mpdam.n_puzzle.PREFERENCE_FILE_KEY</string>
 
