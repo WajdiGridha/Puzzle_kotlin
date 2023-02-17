@@ -9,12 +9,12 @@
     <color name="white">#FFFFFFFF</color>
 
     <!-- Buttons -->
-    <color name="btn_first">#D8BE97</color>
-    <color name="btn_first_variant">#90D194</color>
-    <color name="btn_first_text">#324251</color>
+    <color name="btn_first">#F7E2D6</color>
+    <color name="btn_first_variant">#C69B7B</color>
+    <color name="btn_first_text">#4D455D</color>
 
-    <color name="btn_second">#B56B6B</color>
-    <color name="btn_second_variant">#AA7474</color>
+    <color name="btn_second">#3A3845</color>
+    <color name="btn_second_variant">#826F66</color>
     <color name="btn_second_text">#D2DCDD</color>
 
     <!-- Miscellaneous UI elements -->
@@ -24,5 +24,5 @@
     <color name="success">#800E3E3E</color>
     <color name="success_text">#D8E3E3</color>
 
-    <color name="grid">#DBE3E4</color>
+    <color name="grid">#DFBB9D</color>
 </resources>
