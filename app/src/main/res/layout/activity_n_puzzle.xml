@@ -24,7 +24,7 @@
             android:fontFamily="@font/cairo_bold"
             android:gravity="center"
             android:text="@string/app_title"
-            android:textColor="@color/btn_first"
+            android:textColor="@color/btn_first_text"
             android:textSize="50sp"
             android:textStyle="bold"
             app:layout_constraintBottom_toBottomOf="parent"
